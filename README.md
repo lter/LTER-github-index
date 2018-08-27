@@ -6,8 +6,7 @@ the Long Term Ecological Research Network, funded by NSF
 The  [LTER  program](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=7671) 
 is composed of 28 to examine ecological questions at the ecosystem level. 
 
-## LTER GitHub Repositories
-### Information Managers (IMC) Committee Working Groups
+## Information Managers (IMC) Committee Working Group Repositories
 
 **WIReD Working Group**
 IMC Website Redesign and/or migration (WIRED)
@@ -44,7 +43,7 @@ Workflow tools to capture spatial data from the PASTA repository of LTER data an
 
 
 
-### Scientific Working Groups 
+## Scientific Working Group Repositories 
 **Stream Elemental cycling**
 Purpose
 
@@ -73,7 +72,7 @@ GPL-2.0 Updated on Nov 12, 2014
 
 
 
-### Site-level data management tools
+## Site-level data management tools
 **Drupal Ecological Information Managment System (DEIMS)**: 
 install profile for DEIMS, development repository
 
@@ -94,8 +93,8 @@ and style them for the purpose of generating a local data catalog.
 - PHP Updated on May 21, 2015
 
 
-### Network Software
-**LTER Network Data Portal** The central (website)
+## Network Software
+**LTER Network Data Portal**  (website)
 
 - Repository: https://github.com/LTER/____
 - deployed at 
@@ -117,24 +116,27 @@ Migration of the LTER svn/vocab project to GitHub
 
 - Language  SKOS
 -  Repository: https://github.com/LTER/vocab
-- deployed within both the LTER and EDI data portals.
+- Deployed at http://vocab.lternet.edu/
+    - and used by both the LTER and EDI data portals.
 
 **personnel-db** LTER Personnel Database used by the LNO (20xx-2016)
 
 - Languages: Perl  
 - Reposistory: https://github.com/LTER/personnel-db
-- 
-### Data Products
+- no longer in production
+
+## Data Products
 
 **ClimHy**
 Migration of the LTER svn/ClimHy project to GitHub
 
 - Languages: Perl  
+- Deployed at: https://climhy.lternet.edu/
 - Reposistory
  - migration: May 21, 2015
 
 
-### Site repositories
+## Site repositories
 **Repo or site name here**
 Purpose
 
