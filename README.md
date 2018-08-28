@@ -138,66 +138,65 @@ Migration of the LTER svn/ClimHy project to GitHub
 
 ## Site repositories
 **Template for a repo. put name here**
-Text below is simply copied from github view. Site repositories are not curated. 
+Add a sentence to describe it. 
 
 - Repository: https://github.com/LTER/[repo_name]
 
-FCE
+
+***Text below is simply copied from github view. Site repositories are not yet curated.* **
+
+
+**FCE**
  Prolog  1 Updated on Aug 22, 2017
 
 deims-knz-custom
 DEIMS customizations to serve the Konza Prairie LTER needs
 
-VCR
+**VCR**
 Tools for working with EML Metadata on PASTA servers
 
-deims-pie-custom
+**deims-pie-custom**
 Migration and customization for the Plum Island Ecosystems LTER
  PHP GPL-3.0 Updated on Feb 13, 2017
 
-mcm-im-tasklist
+**mcm-im-tasklist**
 Drupal 7 based Task list to manage the workload for the MCMLTER IM
  PHP Unlicense Updated on Aug 24, 2016
 
-deims-mcm-custom
+**deims-mcm-custom**
 Repository of customizations for McMurdo Dry Valleys LTER
  PHP  1 GPL-2.0 Updated on Jul 8, 2016
 
-deims-ilter-custom
+**deims-ilter-custom**
 DEIMS customizations for ILTER
  PHP  1  1 GPL-2.0 Updated on Jul 1, 2016
 
-deims-sevilleta-custom
+**deims-sevilleta-custom**
 To be used in sites/default/modules with a site built with https://github.com/lter/deims
  PHP  1 Updated on Jan 25, 2016
 
-McMurdo-Environmental-History
+**McMurdo-Environmental-History**
 Drupal customizations to make the Environmental History site for McMurdo Dry Valleys LTER
  PHP GPL-2.0 Updated on Nov 2, 2015
 
-deims-ntl-custom
+**deims-ntl-custom**
 Customizations for the NTL DEIMS migration
  PHP GPL-2.0 Updated on Jun 24, 2015
 
-deims-luquillo-custom
+**deims-luquillo-custom**
 DEIMS Customizations for the Luquillo LTER site
  PHP GPL-2.0 Updated on Jun 16, 2015
 
-BES
+**BES**
 Updated on May 22, 2015
 
-deims-arctic-custom
+**deims-arctic-custom**
 Customizations for the migration and settings of the Arctic LTER DEIMS instance
  PHP GPL-2.0 Updated on Sep 18, 2014
 
-eml-translations
+**eml-translations**
 Translators to and from the Ecological Metadata Language (EML)
  XSLT  2  2 Apache-2.0 Updated on Jul 10, 2014
-
-pasta2geonis
-Forked from rbeloin/pasta2geonis
-Workflow tools to capture spatial data from the PASTA repository of LTER data and enable them in GeoNIS.
-
 
 
 
