@@ -122,7 +122,7 @@ Migration of the LTER svn/vocab project to GitHub
 **personnel-db** LTER Personnel Database used by the LNO (20xx-2016)
 
 - Languages: Perl  
-- Reposistory: https://github.com/LTER/personnel-db
+- Repository: https://github.com/LTER/personnel-db
 - no longer in production
 
 ## Data Products
@@ -137,21 +137,19 @@ Migration of the LTER svn/ClimHy project to GitHub
 
 
 ## Site repositories
-**Repo or site name here**
-Purpose
+**Template for a repo. put name here**
+Text below is simply copied from github view. Site repositories are not curated. 
 
-- Repository: https://github.com/LTER/----
+- Repository: https://github.com/LTER/[repo_name]
 
 FCE
  Prolog  1 Updated on Aug 22, 2017
 
 deims-knz-custom
 DEIMS customizations to serve the Konza Prairie LTER needs
- PHP GPL-2.0 Updated on Jun 20, 2017
 
 VCR
 Tools for working with EML Metadata on PASTA servers
- XSLT  1 Updated on Feb 14, 2017
 
 deims-pie-custom
 Migration and customization for the Plum Island Ecosystems LTER
@@ -192,8 +190,6 @@ deims-arctic-custom
 Customizations for the migration and settings of the Arctic LTER DEIMS instance
  PHP GPL-2.0 Updated on Sep 18, 2014
 
-
-
 eml-translations
 Translators to and from the Ecological Metadata Language (EML)
  XSLT  2  2 Apache-2.0 Updated on Jul 10, 2014
@@ -212,7 +208,3 @@ Any opinions, findings, and conclusions or recommendations expressed in this mat
 of the author(s) and do not necessarily reflect the views of NSF.
 
 
-
-
-----------
-content to copy/move below here:
