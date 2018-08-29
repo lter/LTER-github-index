@@ -4,7 +4,7 @@ This meta-repository helps with navigation of the repositories under the organiz
 the Long Term Ecological Research Network, funded by NSF
 ([https://lternet.edu](https://lternet.edu/)).
 The  [LTER  program](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=7671) 
-is composed of 28 to examine ecological questions at the ecosystem level. 
+is composed of 28 sites to examine ecological questions at the ecosystem level. 
 
 ## Information Managers (IMC) Committee Working Group Repositories
 
@@ -143,13 +143,15 @@ Add a sentence to describe it.
 - Repository: https://github.com/LTER/[repo_name]
 
 
+-------
+
 ***Text below is simply copied from github view. Site repositories are not yet curated.* **
 
 
 **FCE**
  Prolog  1 Updated on Aug 22, 2017
 
-deims-knz-custom
+**deims-knz-custom**
 DEIMS customizations to serve the Konza Prairie LTER needs
 
 **VCR**
