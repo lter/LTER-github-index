@@ -72,13 +72,13 @@ GPL-2.0 Updated on Nov 12, 2014
 
 
 
-## Site-level data management tools
+## Data management tools for LTER sites
 **Drupal Ecological Information Managment System (DEIMS)**: 
 install profile for DEIMS, development repository
 
 - migrated from LTER svn/diems project to GitHub
 - Languages: PHP  
-- Reposistory
+- Reposistory: https://github.com/lter/deims
 
 **Local PASTA-based catalog** example code to harvest metadata records from PASTA+ 
 and style them for the purpose of generating a local data catalog.
@@ -132,7 +132,7 @@ Migration of the LTER svn/ClimHy project to GitHub
 
 - Languages: Perl  
 - Deployed at: https://climhy.lternet.edu/
-- Reposistory
+- Reposistory: https://github.com/lter/ClimHy
  - migration: May 21, 2015
 
 
