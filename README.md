@@ -1,10 +1,11 @@
-# Welcome to the LTER GitHub Organziation
+# Welcome to the LTER GitHub Organization
 This meta-repository helps with navigation of the repositories under the organizational account 
 "LTER", belonging to
 the Long Term Ecological Research Network, funded by NSF
 ([https://lternet.edu](https://lternet.edu/)).
 The  [LTER  program](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=7671) 
-is composed of 28 sites to examine ecological questions at the ecosystem level. 
+is composed of 28 sites who apply long-term observation, experiments, and modeling to understand 
+how ecological systems function over decades. 
 
 ## Information Managers (IMC) Committee Working Group Repositories
 
