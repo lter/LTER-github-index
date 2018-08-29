@@ -79,7 +79,7 @@ install profile for DEIMS, development repository
 
 - migrated from LTER svn/diems project to GitHub
 - Languages: PHP  
-- Reposistory: https://github.com/lter/deims
+- Repository: https://github.com/lter/deims
 
 **Local PASTA-based catalog** example code to harvest metadata records from PASTA+ 
 and style them for the purpose of generating a local data catalog.
@@ -92,7 +92,7 @@ and style them for the purpose of generating a local data catalog.
 **deims-d6** version exported from code.google.com/p/deims
 
 - PHP Updated on May 21, 2015
-
+- Repository: https://github.com/lter/deims-d6
 
 ## Network Software
 **LTER Network Data Portal**  (website)
