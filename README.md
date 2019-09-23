@@ -10,9 +10,9 @@ how ecological systems function over decades.
 ## Information Managers (IMC) Committee Working Group Repositories ([all repos](https://github.com/search?q=topic%3Alter-imc+org%3Alter&type=Repositories))
 
 * [LTER Information Managers Executive Committee](https://github.com/lter/IMC_Exec)
-* [LTER Informaiton Managers Virtual Water Cooler meetings](https://github.com/lter/IMC_VWC)
+* [LTER Information Managers Virtual Water Cooler meetings](https://github.com/lter/IMC_VWC)
 
-* [LTER Informaiton Managers working group repositories](https://github.com/search?q=topic%3Alter-imc-wg+org%3Alter&type=Repositories)
+* [LTER Information Managers working group repositories](https://github.com/search?q=topic%3Alter-imc-wg+org%3Alter&type=Repositories)
 
 * [EML metadata related repositories](https://github.com/search?q=topic%3Aeml-metadata+org%3Alter&type=Repositories)
 
