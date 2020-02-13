@@ -22,7 +22,7 @@ how ecological systems function over decades.
 
 -------------------------------------------------
 
-## old index
+## Details
 
 **WIReD Working Group**
 IMC Website Redesign and/or migration (WIRED)
@@ -60,30 +60,7 @@ Workflow tools to capture spatial data from the PASTA repository of LTER data an
 
 
 ## Scientific Working Group Repositories 
-**Stream Elemental cycling**
-Purpose
-
-- Repository: https://github.com/LTER/lterwg_sec
-
-**lterwg-som**
-Soil Organic Matter Synthesis working group
-
-- Repository: https://github.com/LTER/lterwg-som
-
-**lterwg-bioprod**
-LTER working group - Scaling-Up Productivity Responses to Changes in Biodiversity
-
-- Repository: https://github.com/LTER/lterwg-bioprod
-
-**soil-harmonization**
-R package created by the Soil Organic Matter NCO working group to harmonize soil data
-
-- Repository: https://github.com/LTER/soil-harmonization
-
-**macroeco**
-GPL-2.0 Updated on Nov 12, 2014
-
-- Repository: https://github.com/LTER/macroeco
+[All synthesis working group repositories](https://github.com/search?q=topic%3Alter-science+org%3Alter&type=Repositories))
 
 
 
