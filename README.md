@@ -86,6 +86,13 @@ and style them for the purpose of generating a local data catalog.
 - PHP Updated on May 21, 2015
 - Repository: https://github.com/lter/deims-d6
 
+**LTER-core-metabase** 
+A PostgreSQL database design for ecological metadata. 
+
+- In active development as of September 2019
+- https://github.com/LTER/LTER-core-metabase
+- **MetaEgress**: an associated R package to export EML (Ecological Metadata Language) documents from LTER-core-metabase. See https::/github.com/BLE-LTER/MetaEgress
+
 ## Network Software
 **LTER Network Data Portal**  (website)
 
@@ -135,6 +142,32 @@ Add a sentence to describe it.
 
 - Repository: https://github.com/LTER/[repo_name]
 
+**PASTA-JavaScript-Search-Client**
+Example HTML, CSS, and JavaScript for searching for items in a PASTA repository
+
+- https://github.com/BLE-LTER/PASTA-JavaScript-Search-Client
+
+**Lunr-Index-and-Search-for-Static-Sites**
+How to build and use a Lunr search index for a static website.
+
+- https://github.com/BLE-LTER/Lunr-Index-and-Search-for-Static-Sites
+
+**Solr-JavaScript-Search-Client**
+Example HTML, CSS, and JavaScript for searching for items in a Solr repository
+
+- https://github.com/BLE-LTER/Solr-JavaScript-Search-Client
+
+**BLE-LTER website**
+Example of a static HTML website for Long Term Ecological Research site
+
+- https://github.com/BLE-LTER/LTER-website
+
+## Bibliography management
+
+**Zotero-JavaScript-Search-Client**
+Example HTML, CSS, and JavaScript for searching for items within a public Zotero user or group library
+
+- https://github.com/BLE-LTER/Zotero-JavaScript-Search-Client
 
 -------
 
@@ -192,9 +225,6 @@ Customizations for the migration and settings of the Arctic LTER DEIMS instance
 **eml-translations**
 Translators to and from the Ecological Metadata Language (EML)
  XSLT  2  2 Apache-2.0 Updated on Jul 10, 2014
-
-
-
 
 ## Support and Credits
 LTER has been funded by the National Science Foundation since 1980.
